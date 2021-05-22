@@ -1,0 +1,15 @@
+C:\Users\Brenton\source\repos\ini Profiler\ini Profiler\bin\Debug\ini Profiler.exe.config
+C:\Users\Brenton\source\repos\ini Profiler\ini Profiler\bin\Debug\ini Profiler.exe
+C:\Users\Brenton\source\repos\ini Profiler\ini Profiler\bin\Debug\ini Profiler.pdb
+C:\Users\Brenton\source\repos\ini Profiler\ini Profiler\obj\Debug\ini Profiler.csprojAssemblyReference.cache
+C:\Users\Brenton\source\repos\ini Profiler\ini Profiler\obj\Debug\MainWindow.g.cs
+C:\Users\Brenton\source\repos\ini Profiler\ini Profiler\obj\Debug\App.g.cs
+C:\Users\Brenton\source\repos\ini Profiler\ini Profiler\obj\Debug\ini Profiler_MarkupCompile.cache
+C:\Users\Brenton\source\repos\ini Profiler\ini Profiler\obj\Debug\ini Profiler_MarkupCompile.lref
+C:\Users\Brenton\source\repos\ini Profiler\ini Profiler\obj\Debug\MainWindow.baml
+C:\Users\Brenton\source\repos\ini Profiler\ini Profiler\obj\Debug\ini Profiler.g.resources
+C:\Users\Brenton\source\repos\ini Profiler\ini Profiler\obj\Debug\ini_Profiler.Properties.Resources.resources
+C:\Users\Brenton\source\repos\ini Profiler\ini Profiler\obj\Debug\ini Profiler.csproj.GenerateResource.cache
+C:\Users\Brenton\source\repos\ini Profiler\ini Profiler\obj\Debug\ini Profiler.csproj.CoreCompileInputs.cache
+C:\Users\Brenton\source\repos\ini Profiler\ini Profiler\obj\Debug\ini Profiler.exe
+C:\Users\Brenton\source\repos\ini Profiler\ini Profiler\obj\Debug\ini Profiler.pdb
