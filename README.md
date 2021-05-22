@@ -4,12 +4,11 @@ Change settings that don't have options in-game (hidden settings). Also useful f
 Testing Basic Functionality 
 
 Added Options:
-   FOV
-   Erode
+   FOV, Erode
    
 Soon-to-be-added:
-   lean help settings (higher values)
-   other help settings
-   FPS Cap
+   lean help settings (higher values),
+   other help settings,
+   FPS Cap,
    More Custom Weather Values
    
