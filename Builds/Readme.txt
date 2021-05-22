@@ -1,0 +1,2 @@
+Testing basic functionality. The profile.ini is located in MX Bikes/profiles/(your profile name)/profile.ini.
+For fast copying right click on profile.ini and click properties, then copy/paste the filepath into the filepath textbox inside the program.
